@@ -34,4 +34,4 @@ ORDER BY DESC(?itemCount)
 
 ```
 [Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/b3wivi)
-<a href="https://qlever.cs.uni-freiburg.de/wikidata/b3wivi" target="blank">Try it on QLever</a>
+<a href="https://qlever.cs.uni-freiburg.de/wikidata/b3wivi" target="_blank">Try it on QLever</a>

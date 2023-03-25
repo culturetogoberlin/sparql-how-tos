@@ -19,9 +19,9 @@ PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 # Pattern: Labelling bei Aggregationen über Subqueries
 # Example: List all German collections that are indicated in works of art
 # and count the works for each collection; result in descending order.
-SELECT ?collectionLabel ?itemCount { 
+SELECT ?collectionLabel ?itemCount WHERE { 
   { 
-    SELECT ?collection (COUNT (?item) AS ?itemCount) {
+    SELECT ?collection (COUNT (?item) AS ?itemCount) WHERE {
       ?item wdt:P31/wdt:P279* wd:Q838948 .
       ?item wdt:P195 ?collection .
       ?collection wdt:P17 wd:Q183 .
@@ -33,4 +33,4 @@ SELECT ?collectionLabel ?itemCount {
 ORDER BY DESC(?itemCount) 
 
 ```
-[Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/b3wivi)
+[Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/qXYlja)

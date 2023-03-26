@@ -1,0 +1,747 @@
+?prop,?propLabel,?oCount
+<http://www.wikidata.org/entity/P186>,"""made from material""@en",798903
+<http://www.wikidata.org/entity/P31>,"""instance of""@en",705721
+<http://www.wikidata.org/entity/P195>,"""collection""@en",694397
+<http://www.wikidata.org/entity/P276>,"""location""@en",612468
+<http://www.wikidata.org/entity/P217>,"""inventory number""@en",611366
+<http://www.wikidata.org/entity/P170>,"""creator""@en",585953
+<http://www.wikidata.org/entity/P1476>,"""title""@en",501452
+<http://www.wikidata.org/entity/P571>,"""inception""@en",478629
+<http://www.wikidata.org/entity/P2048>,"""height""@en",435850
+<http://www.wikidata.org/entity/P2049>,"""width""@en",433859
+<http://www.wikidata.org/entity/P180>,"""depicts""@en",344017
+<http://www.wikidata.org/entity/P973>,"""described at URL""@en",287513
+<http://www.wikidata.org/entity/P18>,"""image""@en",267308
+<http://www.wikidata.org/entity/P136>,"""genre""@en",251111
+<http://www.wikidata.org/entity/P6216>,"""copyright status""@en",235043
+<http://www.wikidata.org/entity/P1257>,"""depicts Iconclass notation""@en",198344
+<http://www.wikidata.org/entity/P528>,"""catalog code""@en",78788
+<http://www.wikidata.org/entity/P495>,"""country of origin""@en",76500
+<http://www.wikidata.org/entity/P127>,"""owned by""@en",63115
+<http://www.wikidata.org/entity/P921>,"""main subject""@en",62650
+<http://www.wikidata.org/entity/P350>,"""RKDimages ID""@en",53431
+<http://www.wikidata.org/entity/P17>,"""country""@en",41221
+<http://www.wikidata.org/entity/P1071>,"""location of creation""@en",39272
+<http://www.wikidata.org/entity/P1679>,"""Art UK artwork ID""@en",38918
+<http://www.wikidata.org/entity/P6108>,"""IIIF manifest""@en",37823
+<http://www.wikidata.org/entity/P140>,"""religion or worldview""@en",36106
+<http://www.wikidata.org/entity/P5269>,"""Web umenia work ID""@en",24858
+<http://www.wikidata.org/entity/P131>,"""located in the administrative territorial entity""@en",20810
+<http://www.wikidata.org/entity/P1435>,"""heritage designation""@en",20213
+<http://www.wikidata.org/entity/P4765>,"""Commons compatible image available at URL""@en",19802
+<http://www.wikidata.org/entity/P481>,"""Palissy ID""@en",18876
+<http://www.wikidata.org/entity/P8948>,"""Pinakothek artwork ID""@en",17988
+<http://www.wikidata.org/entity/P4525>,"""MuIS object ID""@en",16959
+<http://www.wikidata.org/entity/P2539>,"""Nationalmuseum Sweden artwork ID""@en",16830
+<http://www.wikidata.org/entity/P608>,"""exhibition history""@en",16392
+<http://www.wikidata.org/entity/P373>,"""Commons category""@en",15593
+<http://www.wikidata.org/entity/P10760>,"""MCCP ID""@en",15407
+<http://www.wikidata.org/entity/P4701>,"""Google Arts & Culture asset ID""@en",14826
+<http://www.wikidata.org/entity/P347>,"""Joconde work ID""@en",14467
+<http://www.wikidata.org/entity/P4373>,"""National Trust Collections ID""@en",12643
+<http://www.wikidata.org/entity/P2671>,"""Google Knowledge Graph ID""@en",12609
+<http://www.wikidata.org/entity/P7868>,"""NPDRMI record ID""@en",12458
+<http://www.wikidata.org/entity/P361>,"""part of""@en",11901
+<http://www.wikidata.org/entity/P3634>,"""The Met object ID""@en",11401
+<http://www.wikidata.org/entity/P135>,"""movement""@en",10912
+<http://www.wikidata.org/entity/P9061>,"""National Museum in Warsaw ID""@en",10847
+<http://www.wikidata.org/entity/P9394>,"""Louvre Museum ARK ID""@en",10225
+<http://www.wikidata.org/entity/P6500>,"""non-free artwork image URL""@en",9697
+<http://www.wikidata.org/entity/P793>,"""significant event""@en",8880
+<http://www.wikidata.org/entity/P4704>,"""Smithsonian American Art Museum artwork ID""@en",8535
+<http://www.wikidata.org/entity/P10270>,"""Hermitage Museum work ID""@en",7789
+<http://www.wikidata.org/entity/P2610>,"""thickness""@en",7741
+<http://www.wikidata.org/entity/P8923>,"""SMB-digital ID""@en",7637
+<http://www.wikidata.org/entity/P1184>,"""Handle ID""@en",7599
+<http://www.wikidata.org/entity/P5210>,"""National Gallery of Armenia work ID""@en",7506
+<http://www.wikidata.org/entity/P2108>,"""Kunstindeks Danmark artwork ID""@en",7461
+<http://www.wikidata.org/entity/P10187>,"""Artstor artwork ID""@en",7118
+<http://www.wikidata.org/entity/P1684>,"""inscription""@en",6750
+<http://www.wikidata.org/entity/P6246>,"""Paris Musées work ID""@en",6730
+<http://www.wikidata.org/entity/P8909>,"""National Gallery of Australia ID""@en",6319
+<http://www.wikidata.org/entity/P8905>,"""Museo del Prado artwork ID""@en",6290
+<http://www.wikidata.org/entity/P4684>,"""National Gallery of Victoria artwork ID""@en",6013
+<http://www.wikidata.org/entity/P1343>,"""described by source""@en",5933
+<http://www.wikidata.org/entity/P5008>,"""on focus list of Wikimedia project""@en",5929
+<http://www.wikidata.org/entity/P7420>,"""image with frame""@en",5923
+<http://www.wikidata.org/entity/P10121>,"""Harvard Art Museums ID""@en",5857
+<http://www.wikidata.org/entity/P8583>,"""Yale University Art Gallery ID""@en",5750
+<http://www.wikidata.org/entity/P1639>,"""pendant of""@en",5691
+<http://www.wikidata.org/entity/P11057>,"""Royal Collection (UK) ID""@en",5598
+<http://www.wikidata.org/entity/P8917>,"""SKD ID""@en",5083
+<http://www.wikidata.org/entity/P9121>,"""National Museum Norway artwork ID""@en",4812
+<http://www.wikidata.org/entity/P2092>,"""Bildindex der Kunst und Architektur ID""@en",4776
+<http://www.wikidata.org/entity/P4659>,"""Musée d'Orsay artwork ID""@en",4510
+<http://www.wikidata.org/entity/P1028>,"""donated by""@en",4480
+<http://www.wikidata.org/entity/P4683>,"""National Gallery of Art artwork ID""@en",4262
+<http://www.wikidata.org/entity/P5823>,"""Belvedere object ID""@en",4232
+<http://www.wikidata.org/entity/P8916>,"""DIA ID""@en",3990
+<http://www.wikidata.org/entity/P8946>,"""National Galleries of Scotland ID""@en",3843
+<http://www.wikidata.org/entity/P7851>,"""Smithsonian resource ID""@en",3837
+<http://www.wikidata.org/entity/P4625>,"""Museum of Fine Arts, Boston object ID""@en",3834
+<http://www.wikidata.org/entity/P9131>,"""Royal Museums Greenwich artwork ID""@en",3778
+<http://www.wikidata.org/entity/P9473>,"""Smithsonian ARK ID""@en",3765
+<http://www.wikidata.org/entity/P9091>,"""MNBAQ ID""@en",3681
+<http://www.wikidata.org/entity/P4712>,"""Minneapolis Institute of Art artwork ID""@en",3584
+<http://www.wikidata.org/entity/P646>,"""Freebase ID""@en",3569
+<http://www.wikidata.org/entity/P10759>,"""Linz DB ID""@en",3555
+<http://www.wikidata.org/entity/P8639>,"""Cincinnati Art Museum ID""@en",3476
+<http://www.wikidata.org/entity/P144>,"""based on""@en",3451
+<http://www.wikidata.org/entity/P1212>,"""Atlas ID""@en",3427
+<http://www.wikidata.org/entity/P4643>,"""Philadelphia Museum of Art work ID""@en",3208
+<http://www.wikidata.org/entity/P9144>,"""National Portrait Gallery (London) artwork ID""@en",3071
+<http://www.wikidata.org/entity/P4610>,"""ARTIC artwork ID""@en",3011
+<http://www.wikidata.org/entity/P8922>,"""Amsterdam Museum ID""@en",2964
+<http://www.wikidata.org/entity/P1889>,"""different from""@en",2844
+<http://www.wikidata.org/entity/P4905>,"""KMSKA work PID""@en",2831
+<http://www.wikidata.org/entity/P8906>,"""National Gallery of Ireland ID""@en",2760
+<http://www.wikidata.org/entity/P7847>,"""DigitaltMuseum ID""@en",2630
+<http://www.wikidata.org/entity/P4144>,"""Athenaeum artwork ID""@en",2510
+<http://www.wikidata.org/entity/P5499>,"""Boijmans work ID""@en",2508
+<http://www.wikidata.org/entity/P8960>,"""Kunsthistorisches Museum Wien ID""@en",2453
+<http://www.wikidata.org/entity/P6152>,"""National Portrait Gallery (United States) object ID""@en",2449
+<http://www.wikidata.org/entity/P4692>,"""American Art Collaborative object ID""@en",2412
+<http://www.wikidata.org/entity/P6738>,"""Whitney Museum of American Art artwork ID""@en",2397
+<http://www.wikidata.org/entity/P5783>,"""Cranach Digital Archive artwork ID""@en",2361
+<http://www.wikidata.org/entity/P8907>,"""Auckland Art Gallery artwork ID""@en",2354
+<http://www.wikidata.org/entity/P4627>,"""EK number""@en",2353
+<http://www.wikidata.org/entity/P4611>,"""LACMA ID""@en",2233
+<http://www.wikidata.org/entity/P8598>,"""Seattle Art Museum ID""@en",2215
+<http://www.wikidata.org/entity/P6805>,"""Art Gallery of South Australia work ID""@en",2196
+<http://www.wikidata.org/entity/P2014>,"""Museum of Modern Art work ID""@en",2132
+<http://www.wikidata.org/entity/P4738>,"""Yale Center for British Art artwork ID""@en",2102
+<http://www.wikidata.org/entity/P6007>,"""Salons ID""@en",2089
+<http://www.wikidata.org/entity/P4674>,"""Indianapolis Museum of Art artwork ID""@en",2051
+<http://www.wikidata.org/entity/P4673>,"""Museum of Fine Arts, Houston object ID""@en",2007
+<http://www.wikidata.org/entity/P2079>,"""fabrication method""@en",1883
+<http://www.wikidata.org/entity/P10750>,"""Database of Art Objects at the Jeu de Paume ID""@en",1855
+<http://www.wikidata.org/entity/P4511>,"""vertical depth""@en",1832
+<http://www.wikidata.org/entity/P2344>,"""AGORHA work ID""@en",1821
+<http://www.wikidata.org/entity/P8599>,"""Nelson-Atkins Museum of Art artwork ID""@en",1783
+<http://www.wikidata.org/entity/P6374>,"""MAM artwork ID""@en",1750
+<http://www.wikidata.org/entity/P179>,"""part of the series""@en",1750
+<http://www.wikidata.org/entity/P2511>,"""MSK Gent work PID""@en",1709
+<http://www.wikidata.org/entity/P5265>,"""Dordrechts Museum artwork ID""@en",1661
+<http://www.wikidata.org/entity/P8910>,"""Fitzwilliam Museum ID""@en",1659
+<http://www.wikidata.org/entity/P4969>,"""derivative work""@en",1540
+<http://www.wikidata.org/entity/P9092>,"""Art in the Christian Tradition ID""@en",1533
+<http://www.wikidata.org/entity/P9942>,"""National Gallery Prague work ID""@en",1469
+<http://www.wikidata.org/entity/P3293>,"""BALaT object ID""@en",1424
+<http://www.wikidata.org/entity/P8640>,"""Dallas Museum of Art ID""@en",1379
+<http://www.wikidata.org/entity/P2581>,"""BabelNet ID""@en",1303
+<http://www.wikidata.org/entity/P5407>,"""MHK object ID""@en",1294
+<http://www.wikidata.org/entity/P88>,"""commissioned by""@en",1255
+<http://www.wikidata.org/entity/P10779>,"""Collection Hermann Göring DB ID""@en",1251
+<http://www.wikidata.org/entity/P7984>,"""depicted format""@en",1223
+<http://www.wikidata.org/entity/P9167>,"""De Lakenhal artwork ID""@en",1192
+<http://www.wikidata.org/entity/P8959>,"""Georgia Museum of Art ID""@en",1183
+<http://www.wikidata.org/entity/P3783>,"""Christie's object ID""@en",1116
+<http://www.wikidata.org/entity/P11591>,"""Museu Paulista iconography ID""@en",1052
+<http://www.wikidata.org/entity/P10312>,"""AAGM artwork ID""@en",1014
+<http://www.wikidata.org/entity/P2043>,"""length""@en",1010
+<http://www.wikidata.org/entity/P6595>,"""Paintings by Salvador Dalí ID""@en",1001
+<http://www.wikidata.org/entity/P3931>,"""copyright holder""@en",999
+<http://www.wikidata.org/entity/P10039>,"""Musées Nationaux Recuperation ID""@en",975
+<http://www.wikidata.org/entity/P4709>,"""Barnes Foundation ID""@en",967
+<http://www.wikidata.org/entity/P2282>,"""Groeningemuseum work PID""@en",934
+<http://www.wikidata.org/entity/P9132>,"""Saint Louis Art Museum artwork ID""@en",912
+<http://www.wikidata.org/entity/P527>,"""has part(s)""@en",878
+<http://www.wikidata.org/entity/P1433>,"""published in""@en",864
+<http://www.wikidata.org/entity/P2348>,"""time period""@en",860
+<http://www.wikidata.org/entity/P856>,"""official website""@en",811
+<http://www.wikidata.org/entity/P4740>,"""Brooklyn Museum artwork ID""@en",767
+<http://www.wikidata.org/entity/P2561>,"""name""@en",696
+<http://www.wikidata.org/entity/P3893>,"""public domain date""@en",677
+<http://www.wikidata.org/entity/P577>,"""publication date""@en",663
+<http://www.wikidata.org/entity/P3272>,"""Zeri image ID""@en",632
+<http://www.wikidata.org/entity/P625>,"""coordinate location""@en",631
+<http://www.wikidata.org/entity/P189>,"""location of discovery""@en",612
+<http://www.wikidata.org/entity/P6786>,"""National Library of Wales Catalogue ID""@en",610
+<http://www.wikidata.org/entity/P1417>,"""Encyclopædia Britannica Online ID""@en",599
+<http://www.wikidata.org/entity/P2242>,"""Florentine musea catalogue ID""@en",593
+<http://www.wikidata.org/entity/P6506>,"""Eliseu Visconti Project ID""@en",589
+<http://www.wikidata.org/entity/P6002>,"""WikiArt ID""@en",582
+<http://www.wikidata.org/entity/P4737>,"""Solomon R. Guggenheim Foundation artwork ID""@en",575
+<http://www.wikidata.org/entity/P1705>,"""native label""@en",553
+<http://www.wikidata.org/entity/P2386>,"""diameter""@en",541
+<http://www.wikidata.org/entity/P4713>,"""Walters Art Museum ID""@en",530
+<http://www.wikidata.org/entity/P1726>,"""Florentine musea Inventario 1890 ID""@en",530
+<http://www.wikidata.org/entity/P6355>,"""MNAM artwork ID""@en",525
+<http://www.wikidata.org/entity/P6631>,"""Tainacan MHN ID""@en",502
+<http://www.wikidata.org/entity/P8574>,"""NYARC Discovery ID""@en",483
+<http://www.wikidata.org/entity/P2408>,"""set in period""@en",478
+<http://www.wikidata.org/entity/P2582>,"""J. Paul Getty Museum object ID""@en",438
+<http://www.wikidata.org/entity/P6323>,"""Centre Pompidou ID""@en",437
+<http://www.wikidata.org/entity/P8962>,"""PBA artwork ID""@en",431
+<http://www.wikidata.org/entity/P972>,"""catalog""@en",424
+<http://www.wikidata.org/entity/P5524>,"""horizontal depth""@en",419
+<http://www.wikidata.org/entity/P1260>,"""Swedish Open Cultural Heritage URI""@en",410
+<http://www.wikidata.org/entity/P4761>,"""Images d'Art artwork ID""@en",385
+<http://www.wikidata.org/entity/P941>,"""inspired by""@en",363
+<http://www.wikidata.org/entity/P156>,"""followed by""@en",344
+<http://www.wikidata.org/entity/P485>,"""archives at""@en",333
+<http://www.wikidata.org/entity/P1419>,"""shape""@en",328
+<http://www.wikidata.org/entity/P989>,"""spoken text audio""@en",295
+<http://www.wikidata.org/entity/P9787>,"""Smartify artwork ID""@en",292
+<http://www.wikidata.org/entity/P6565>,"""Musenor artwork ID""@en",292
+<http://www.wikidata.org/entity/P8924>,"""State Catalogue of the Museum Fund of Russia artwork ID""@en",269
+<http://www.wikidata.org/entity/P1877>,"""after a work by""@en",267
+<http://www.wikidata.org/entity/P9051>,"""ICCD cultural heritage ID""@en",256
+<http://www.wikidata.org/entity/P462>,"""color""@en",252
+<http://www.wikidata.org/entity/P227>,"""GND ID""@en",247
+<http://www.wikidata.org/entity/P4739>,"""Musée des Augustins artwork ID (former scheme)""@en",245
+<http://www.wikidata.org/entity/P6663>,"""Utpictura18 artwork ID""@en",232
+<http://www.wikidata.org/entity/P6606>,"""study or design for""@en",226
+<http://www.wikidata.org/entity/P9403>,"""Musée national de la Marine ID""@en",225
+<http://www.wikidata.org/entity/P4582>,"""Kulturelles Erbe Köln object ID""@en",222
+<http://www.wikidata.org/entity/P3417>,"""Quora topic ID""@en",218
+<http://www.wikidata.org/entity/P214>,"""VIAF ID""@en",213
+<http://www.wikidata.org/entity/P9095>,"""Kunstmuseum Basel ID""@en",213
+<http://www.wikidata.org/entity/P1669>,"""Cultural Objects Names Authority ID""@en",202
+<http://www.wikidata.org/entity/P10093>,"""image with color chart""@en",195
+<http://www.wikidata.org/entity/P2634>,"""model""@en",194
+<http://www.wikidata.org/entity/P6004>,"""Brasiliana Iconográfica ID""@en",190
+<http://www.wikidata.org/entity/P9495>,"""National Historical Museums of Sweden ID""@en",185
+<http://www.wikidata.org/entity/P7417>,"""image of backside""@en",171
+<http://www.wikidata.org/entity/P50>,"""author""@en",168
+<http://www.wikidata.org/entity/P9789>,"""Yale Center for British Art artwork Lido ID""@en",167
+<http://www.wikidata.org/entity/P4275>,"""Japanese Database of National important cultural properties""@en",166
+<http://www.wikidata.org/entity/P268>,"""Bibliothèque nationale de France ID""@en",158
+<http://www.wikidata.org/entity/P4839>,"""Wolfram Language entity code""@en",156
+<http://www.wikidata.org/entity/P7229>,"""Fundación Goya en Aragón ID""@en",155
+<http://www.wikidata.org/entity/P138>,"""named after""@en",155
+<http://www.wikidata.org/entity/P5891>,"""Bpk-ID""@en",154
+<http://www.wikidata.org/entity/P7457>,"""creator's signature""@en",138
+<http://www.wikidata.org/entity/P1448>,"""official name""@en",138
+<http://www.wikidata.org/entity/P2284>,"""price""@en",137
+<http://www.wikidata.org/entity/P2913>,"""date depicted""@en",137
+<http://www.wikidata.org/entity/P155>,"""follows""@en",136
+<http://www.wikidata.org/entity/P1680>,"""subtitle""@en",135
+<http://www.wikidata.org/entity/P4313>,"""musée de Bretagne identifiant collections ID""@en",130
+<http://www.wikidata.org/entity/P953>,"""full work available at URL""@en",122
+<http://www.wikidata.org/entity/P8335>,"""Uffizi artwork ID""@en",120
+<http://www.wikidata.org/entity/P6489>,"""Joan Miró Online Image Bank ID""@en",113
+<http://www.wikidata.org/entity/P3855>,"""LombardiaBeniCulturali artwork ID""@en",111
+<http://www.wikidata.org/entity/P1428>,"""Lost Art ID""@en",105
+<http://www.wikidata.org/entity/P6375>,"""street address""@en",103
+<http://www.wikidata.org/entity/P6625>,"""Salvador Dali Museum ID""@en",103
+<http://www.wikidata.org/entity/P244>,"""Library of Congress authority ID""@en",99
+<http://www.wikidata.org/entity/P275>,"""copyright license""@en",97
+<http://www.wikidata.org/entity/P4399>,"""Itaú Cultural ID""@en",96
+<http://www.wikidata.org/entity/P5950>,"""São Paulo: os estrangeiros e a construção da cidade ID""@en",95
+<http://www.wikidata.org/entity/P11592>,"""Museu Paulista objects ID""@en",94
+<http://www.wikidata.org/entity/P123>,"""publisher""@en",93
+<http://www.wikidata.org/entity/P10461>,"""Dumbarton Oaks object ID""@en",92
+<http://www.wikidata.org/entity/P1299>,"""depicted by""@en",88
+<http://www.wikidata.org/entity/P460>,"""said to be the same as""@en",87
+<http://www.wikidata.org/entity/P2681>,"""is recto of""@en",84
+<http://www.wikidata.org/entity/P10293>,"""Tretyakov Gallery work ID""@en",83
+<http://www.wikidata.org/entity/P2682>,"""is verso of""@en",80
+<http://www.wikidata.org/entity/P6356>,"""IHOI work ID""@en",74
+<http://www.wikidata.org/entity/P840>,"""narrative location""@en",73
+<http://www.wikidata.org/entity/P6332>,"""Panorama de l'art ID""@en",72
+<http://www.wikidata.org/entity/P10565>,"""Encyclopedia of China (Third Edition) ID""@en",72
+<http://www.wikidata.org/entity/P269>,"""IdRef ID""@en",70
+<http://www.wikidata.org/entity/P6020>,"""d'Art d'Art ! ID""@en",66
+<http://www.wikidata.org/entity/P4380>,"""Sandrart.net artwork ID""@en",62
+<http://www.wikidata.org/entity/P6405>,"""Smarthistory ID""@en",60
+<http://www.wikidata.org/entity/P3929>,"""V&A item ID""@en",60
+<http://www.wikidata.org/entity/P1259>,"""coordinates of the point of view""@en",59
+<http://www.wikidata.org/entity/P6610>,"""Ashmolean museum ID""@en",57
+<http://www.wikidata.org/entity/P6358>,"""Musée Picasso artwork ID""@en",54
+<http://www.wikidata.org/entity/P6802>,"""related image""@en",53
+<http://www.wikidata.org/entity/P2093>,"""author name string""@en",53
+<http://www.wikidata.org/entity/P935>,"""Commons gallery""@en",53
+<http://www.wikidata.org/entity/P6291>,"""advertises""@en",53
+<http://www.wikidata.org/entity/P2596>,"""culture""@en",51
+<http://www.wikidata.org/entity/P3504>,"""Florentine Inventario Palatina art ID""@en",51
+<http://www.wikidata.org/entity/P737>,"""influenced by""@en",48
+<http://www.wikidata.org/entity/P585>,"""point in time""@en",48
+<http://www.wikidata.org/entity/P4686>,"""Carnegie Museum of Art ID""@en",47
+<http://www.wikidata.org/entity/P8189>,"""National Library of Israel J9U ID""@en",46
+<http://www.wikidata.org/entity/P740>,"""location of formation""@en",45
+<http://www.wikidata.org/entity/P910>,"""topic's main category""@en",43
+<http://www.wikidata.org/entity/P6301>,"""The Armory Show at 100 ID""@en",43
+<http://www.wikidata.org/entity/P1326>,"""latest date""@en",41
+<http://www.wikidata.org/entity/P5528>,"""Belgian Heritage in Brazil ID""@en",41
+<http://www.wikidata.org/entity/P3342>,"""significant person""@en",41
+<http://www.wikidata.org/entity/P166>,"""award received""@en",40
+<http://www.wikidata.org/entity/P6877>,"""MAHG ID""@en",38
+<http://www.wikidata.org/entity/P6633>,"""Cini Foundation ID""@en",37
+<http://www.wikidata.org/entity/P6979>,"""SLNSW unpublished item ID""@en",37
+<http://www.wikidata.org/entity/P1814>,"""name in kana""@en",37
+<http://www.wikidata.org/entity/P407>,"""language of work or name""@en",37
+<http://www.wikidata.org/entity/P4948>,"""DDB ID""@en",36
+<http://www.wikidata.org/entity/P1651>,"""YouTube video ID""@en",35
+<http://www.wikidata.org/entity/P7037>,"""COURAGE ID""@en",35
+<http://www.wikidata.org/entity/P5816>,"""state of conservation""@en",32
+<http://www.wikidata.org/entity/P291>,"""place of publication""@en",31
+<http://www.wikidata.org/entity/P2061>,"""aspect ratio (W:H)""@en",31
+<http://www.wikidata.org/entity/P937>,"""work location""@en",31
+<http://www.wikidata.org/entity/P2789>,"""connects with""@en",30
+<http://www.wikidata.org/entity/P825>,"""dedicated to""@en",30
+<http://www.wikidata.org/entity/P1949>,"""CulturaItalia ID""@en",30
+<http://www.wikidata.org/entity/P1256>,"""Iconclass notation""@en",29
+<http://www.wikidata.org/entity/P5691>,"""BND ID""@en",27
+<http://www.wikidata.org/entity/P8408>,"""KBpedia ID""@en",27
+<http://www.wikidata.org/entity/P7108>,"""location of the point of view""@en",26
+<http://www.wikidata.org/entity/P3219>,"""Encyclopædia Universalis ID""@en",25
+<http://www.wikidata.org/entity/P576>,"""dissolved, abolished or demolished date""@en",25
+<http://www.wikidata.org/entity/P1325>,"""external data available at""@en",25
+<http://www.wikidata.org/entity/P366>,"""has use""@en",24
+<http://www.wikidata.org/entity/P1557>,"""manifestation of""@en",24
+<http://www.wikidata.org/entity/P1810>,"""subject named as""@en",23
+<http://www.wikidata.org/entity/P106>,"""occupation""@en",23
+<http://www.wikidata.org/entity/P21>,"""sex or gender""@en",23
+<http://www.wikidata.org/entity/P629>,"""edition or translation of""@en",23
+<http://www.wikidata.org/entity/P4764>,"""Base Arcade artwork ID""@en",22
+<http://www.wikidata.org/entity/P30>,"""continent""@en",21
+<http://www.wikidata.org/entity/P7704>,"""Europeana entity""@en",21
+<http://www.wikidata.org/entity/P6334>,"""Agence photo RMN package ID""@en",21
+<http://www.wikidata.org/entity/P633>,"""Quebec cultural heritage directory ID""@en",20
+<http://www.wikidata.org/entity/P279>,"""subclass of""@en",20
+<http://www.wikidata.org/entity/P6379>,"""has works in the collection""@en",19
+<http://www.wikidata.org/entity/P4814>,"""Inventories of American Painting and Sculpture control number""@en",19
+<http://www.wikidata.org/entity/P433>,"""issue""@en",18
+<http://www.wikidata.org/entity/P6839>,"""TV Tropes identifier""@en",18
+<http://www.wikidata.org/entity/P6372>,"""Interpol WOA artwork ID (OBSOLETE)""@en",18
+<http://www.wikidata.org/entity/P3480>,"""base Mémoire reference""@en",16
+<http://www.wikidata.org/entity/P1296>,"""Gran Enciclopèdia Catalana ID""@en",16
+<http://www.wikidata.org/entity/P7818>,"""French Vikidia ID""@en",15
+<http://www.wikidata.org/entity/P9344>,"""has graphical element""@en",15
+<http://www.wikidata.org/entity/P126>,"""maintained by""@en",14
+<http://www.wikidata.org/entity/P8565>,"""British Museum object ID""@en",14
+<http://www.wikidata.org/entity/P1066>,"""student of""@en",14
+<http://www.wikidata.org/entity/P2186>,"""Wiki Loves Monuments ID""@en",14
+<http://www.wikidata.org/entity/P859>,"""sponsor""@en",14
+<http://www.wikidata.org/entity/P443>,"""pronunciation audio""@en",14
+<http://www.wikidata.org/entity/P582>,"""end time""@en",14
+<http://www.wikidata.org/entity/P2067>,"""mass""@en",13
+<http://www.wikidata.org/entity/P4342>,"""Store norske leksikon ID""@en",13
+<http://www.wikidata.org/entity/P6576>,"""Art Fund artwork ID""@en",13
+<http://www.wikidata.org/entity/P551>,"""residence""@en",13
+<http://www.wikidata.org/entity/P6310>,"""Muséosphère work ID""@en",13
+<http://www.wikidata.org/entity/P27>,"""country of citizenship""@en",13
+<http://www.wikidata.org/entity/P2699>,"""URL""@en",13
+<http://www.wikidata.org/entity/P6058>,"""Larousse ID""@en",13
+<http://www.wikidata.org/entity/P1441>,"""present in work""@en",12
+<http://www.wikidata.org/entity/P98>,"""editor""@en",12
+<http://www.wikidata.org/entity/P4742>,"""Uniform Resource Identifier Scheme""@en",12
+<http://www.wikidata.org/entity/P213>,"""ISNI""@en",12
+<http://www.wikidata.org/entity/P8814>,"""WordNet 3.1 Synset ID""@en",12
+<http://www.wikidata.org/entity/P580>,"""start time""@en",12
+<http://www.wikidata.org/entity/P101>,"""field of work""@en",12
+<http://www.wikidata.org/entity/P478>,"""volume""@en",12
+<http://www.wikidata.org/entity/P949>,"""National Library of Israel ID (old)""@en",12
+<http://www.wikidata.org/entity/P159>,"""headquarters location""@en",11
+<http://www.wikidata.org/entity/P51>,"""audio""@en",11
+<http://www.wikidata.org/entity/P5223>,"""Information Center for Israeli Art artwork ID""@en",11
+<http://www.wikidata.org/entity/P8313>,"""Den Store Danske ID""@en",11
+<http://www.wikidata.org/entity/P7937>,"""form of creative work""@en",11
+<http://www.wikidata.org/entity/P2163>,"""FAST ID""@en",11
+<http://www.wikidata.org/entity/P4257>,"""National Museums of Japan e-museum ID""@en",11
+<http://www.wikidata.org/entity/P11005>,"""Artsy artwork ID""@en",11
+<http://www.wikidata.org/entity/P282>,"""writing system""@en",10
+<http://www.wikidata.org/entity/P710>,"""participant""@en",10
+<http://www.wikidata.org/entity/P1114>,"""quantity""@en",10
+<http://www.wikidata.org/entity/P1574>,"""exemplar of""@en",10
+<http://www.wikidata.org/entity/P6819>,"""calligrapher""@en",10
+<http://www.wikidata.org/entity/P1817>,"""addressee""@en",10
+<http://www.wikidata.org/entity/P2441>,"""literal translation""@en",10
+<http://www.wikidata.org/entity/P996>,"""document file on Wikimedia Commons""@en",10
+<http://www.wikidata.org/entity/P770>,"""cause of destruction""@en",9
+<http://www.wikidata.org/entity/P641>,"""sport""@en",9
+<http://www.wikidata.org/entity/P6262>,"""Fandom article ID""@en",9
+<http://www.wikidata.org/entity/P888>,"""JSTOR article ID""@en",9
+<http://www.wikidata.org/entity/P675>,"""Google Books ID""@en",9
+<http://www.wikidata.org/entity/P5059>,"""modified version of""@en",9
+<http://www.wikidata.org/entity/P4564>,"""Art Museum of Estonia artwork ID""@en",9
+<http://www.wikidata.org/entity/P304>,"""page(s)""@en",9
+<http://www.wikidata.org/entity/P9302>,"""script style""@en",9
+<http://www.wikidata.org/entity/P1779>,"""possible creator""@en",8
+<http://www.wikidata.org/entity/P2046>,"""area""@en",8
+<http://www.wikidata.org/entity/P1559>,"""name in native language""@en",8
+<http://www.wikidata.org/entity/P950>,"""Biblioteca Nacional de España ID""@en",8
+<http://www.wikidata.org/entity/P7859>,"""WorldCat Identities ID""@en",8
+<http://www.wikidata.org/entity/P547>,"""commemorates""@en",8
+<http://www.wikidata.org/entity/P110>,"""illustrator""@en",8
+<http://www.wikidata.org/entity/P6629>,"""Artcurial lot ID""@en",7
+<http://www.wikidata.org/entity/P9834>,"""Finnish National Gallery artwork ID""@en",7
+<http://www.wikidata.org/entity/P7293>,"""PLWABN ID""@en",7
+<http://www.wikidata.org/entity/P805>,"""statement is subject of""@en",7
+<http://www.wikidata.org/entity/P691>,"""NKCR AUT ID""@en",7
+<http://www.wikidata.org/entity/P69>,"""educated at""@en",7
+<http://www.wikidata.org/entity/P1412>,"""languages spoken, written or signed""@en",7
+<http://www.wikidata.org/entity/P7418>,"""image of frontside""@en",7
+<http://www.wikidata.org/entity/P8179>,"""Canadiana Name Authority ID""@en",7
+<http://www.wikidata.org/entity/P4372>,"""iPatrimônio ID""@en",7
+<http://www.wikidata.org/entity/P569>,"""date of birth""@en",7
+<http://www.wikidata.org/entity/P6760>,"""Know Your Meme ID""@en",7
+<http://www.wikidata.org/entity/P7772>,"""Atlas Obscura identifier""@en",7
+<http://www.wikidata.org/entity/P1264>,"""valid in period""@en",7
+<http://www.wikidata.org/entity/P2888>,"""exact match""@en",7
+<http://www.wikidata.org/entity/P1449>,"""nickname""@en",6
+<http://www.wikidata.org/entity/P674>,"""characters""@en",6
+<http://www.wikidata.org/entity/P1451>,"""motto text""@en",6
+<http://www.wikidata.org/entity/P1896>,"""source website for the property""@en",6
+<http://www.wikidata.org/entity/P5004>,"""in opposition to""@en",6
+<http://www.wikidata.org/entity/P6426>,"""RightsStatements.org statement according to source website""@en",6
+<http://www.wikidata.org/entity/P8411>,"""set in environment""@en",6
+<http://www.wikidata.org/entity/P5268>,"""MNAV work ID""@en",6
+<http://www.wikidata.org/entity/P2558>,"""autores.uy ID""@en",6
+<http://www.wikidata.org/entity/P1269>,"""facet of""@en",6
+<http://www.wikidata.org/entity/P570>,"""date of death""@en",6
+<http://www.wikidata.org/entity/P575>,"""time of discovery or invention""@en",6
+<http://www.wikidata.org/entity/P9326>,"""PatER ID""@en",6
+<http://www.wikidata.org/entity/P8210>,"""LombardiaBeniCulturali artwork author ID""@en",6
+<http://www.wikidata.org/entity/P7502>,"""Golden ID""@en",6
+<http://www.wikidata.org/entity/P4808>,"""Royal Academy new identifier""@en",6
+<http://www.wikidata.org/entity/P7305>,"""Online PWN Encyclopedia ID""@en",6
+<http://www.wikidata.org/entity/P10>,"""video""@en",6
+<http://www.wikidata.org/entity/P8970>,"""Chinese Painting Database ID""@en",6
+<http://www.wikidata.org/entity/P736>,"""cover art by""@en",5
+<http://www.wikidata.org/entity/P349>,"""NDL Authority ID""@en",5
+<http://www.wikidata.org/entity/P632>,"""cultural properties of Belarus reference number""@en",5
+<http://www.wikidata.org/entity/P2754>,"""production date""@en",5
+<http://www.wikidata.org/entity/P6305>,"""Wikimedia VRTS ticket number""@en",5
+<http://www.wikidata.org/entity/P463>,"""member of""@en",5
+<http://www.wikidata.org/entity/P108>,"""employer""@en",5
+<http://www.wikidata.org/entity/P444>,"""review score""@en",5
+<http://www.wikidata.org/entity/P735>,"""given name""@en",5
+<http://www.wikidata.org/entity/P1780>,"""school of""@en",5
+<http://www.wikidata.org/entity/P11110>,"""Cleveland Museum of Art ID""@en",5
+<http://www.wikidata.org/entity/P1065>,"""archive URL""@en",5
+<http://www.wikidata.org/entity/P8168>,"""FactGrid item ID""@en",5
+<http://www.wikidata.org/entity/P7959>,"""historic county""@en",5
+<http://www.wikidata.org/entity/P19>,"""place of birth""@en",5
+<http://www.wikidata.org/entity/P61>,"""discoverer or inventor""@en",5
+<http://www.wikidata.org/entity/P734>,"""family name""@en",4
+<http://www.wikidata.org/entity/P6845>,"""abART document ID""@en",4
+<http://www.wikidata.org/entity/P2716>,"""collage image""@en",4
+<http://www.wikidata.org/entity/P2670>,"""has part(s) of the class""@en",4
+<http://www.wikidata.org/entity/P3318>,"""Guía Digital del Patrimonio Cultural de Andalucía identifier""@en",4
+<http://www.wikidata.org/entity/P7822>,"""Italian Vikidia ID""@en",4
+<http://www.wikidata.org/entity/P5324>,"""Swedish National Archive Reference Code""@en",4
+<http://www.wikidata.org/entity/P2598>,"""serial number""@en",4
+<http://www.wikidata.org/entity/P2614>,"""World Heritage criteria""@en",4
+<http://www.wikidata.org/entity/P3222>,"""NE.se ID""@en",4
+<http://www.wikidata.org/entity/P175>,"""performer""@en",4
+<http://www.wikidata.org/entity/P808>,"""Bien de Interés Cultural (BIC) code""@en",4
+<http://www.wikidata.org/entity/P2130>,"""cost""@en",4
+<http://www.wikidata.org/entity/P2347>,"""YSO ID""@en",4
+<http://www.wikidata.org/entity/P8425>,"""IAPH code""@en",4
+<http://www.wikidata.org/entity/P724>,"""Internet Archive ID""@en",4
+<http://www.wikidata.org/entity/P7827>,"""Spanish Vikidia ID""@en",4
+<http://www.wikidata.org/entity/P1706>,"""together with""@en",4
+<http://www.wikidata.org/entity/P1346>,"""winner""@en",4
+<http://www.wikidata.org/entity/P9365>,"""Modernist Commons ID""@en",4
+<http://www.wikidata.org/entity/P1434>,"""takes place in fictional universe""@en",4
+<http://www.wikidata.org/entity/P669>,"""located on street""@en",4
+<http://www.wikidata.org/entity/P6713>,"""Australian War Memorial ID""@en",4
+<http://www.wikidata.org/entity/P9875>,"""Fondation du patrimoine ID""@en",4
+<http://www.wikidata.org/entity/P2440>,"""transliteration""@en",3
+<http://www.wikidata.org/entity/P2924>,"""Great Russian Encyclopedia Online ID""@en",3
+<http://www.wikidata.org/entity/P7763>,"""copyright status as a creator""@en",3
+<http://www.wikidata.org/entity/P5961>,"""depicted part""@en",3
+<http://www.wikidata.org/entity/P2817>,"""appears in the heritage monument list""@en",3
+<http://www.wikidata.org/entity/P1695>,"""NLP ID (old)""@en",3
+<http://www.wikidata.org/entity/P6573>,"""Klexikon article ID""@en",3
+<http://www.wikidata.org/entity/P1830>,"""owner of""@en",3
+<http://www.wikidata.org/entity/P9906>,"""inscription image""@en",3
+<http://www.wikidata.org/entity/P6890>,"""Nchdb asset ID""@en",3
+<http://www.wikidata.org/entity/P1801>,"""plaque image""@en",3
+<http://www.wikidata.org/entity/P2679>,"""author of foreword""@en",3
+<http://www.wikidata.org/entity/P2003>,"""Instagram username""@en",3
+<http://www.wikidata.org/entity/P1619>,"""date of official opening""@en",3
+<http://www.wikidata.org/entity/P7184>,"""Awards & Winners artist ID""@en",3
+<http://www.wikidata.org/entity/P7414>,"""State Catalogue of the Museum Fund of Russia museum ID""@en",3
+<http://www.wikidata.org/entity/P1580>,"""University of Barcelona authority ID (former scheme)""@en",3
+<http://www.wikidata.org/entity/P6482>,"""Image Archive, Herder Institute""@en",3
+<http://www.wikidata.org/entity/P9545>,"""Encyclopedia of China ID (Second Edition)""@en",3
+<http://www.wikidata.org/entity/P243>,"""OCLC control number""@en",3
+<http://www.wikidata.org/entity/P25>,"""mother""@en",3
+<http://www.wikidata.org/entity/P6295>,"""ARTIC artist ID""@en",3
+<http://www.wikidata.org/entity/P1777>,"""manner of""@en",3
+<http://www.wikidata.org/entity/P1315>,"""NLA Trove people ID""@en",3
+<http://www.wikidata.org/entity/P10254>,"""associated cadastral district""@en",3
+<http://www.wikidata.org/entity/P409>,"""Libraries Australia ID""@en",3
+<http://www.wikidata.org/entity/P3553>,"""Zhihu topic ID""@en",3
+<http://www.wikidata.org/entity/P8317>,"""Philadelphia Museum of Art entity ID""@en",3
+<http://www.wikidata.org/entity/P9339>,"""Bavarian Monument Map object ID (architectural monument)""@en",3
+<http://www.wikidata.org/entity/P827>,"""BBC programme ID""@en",3
+<http://www.wikidata.org/entity/P4244>,"""Bavarian monument authority ID""@en",3
+<http://www.wikidata.org/entity/P1375>,"""NSK ID""@en",3
+<http://www.wikidata.org/entity/P1371>,"""ASI Monument ID""@en",3
+<http://www.wikidata.org/entity/P3173>,"""offers view on""@en",3
+<http://www.wikidata.org/entity/P119>,"""place of burial""@en",2
+<http://www.wikidata.org/entity/P20>,"""place of death""@en",2
+<http://www.wikidata.org/entity/P9149>,"""coordinates of depicted place""@en",2
+<http://www.wikidata.org/entity/P2948>,"""Estonian cultural monument ID""@en",2
+<http://www.wikidata.org/entity/P2002>,"""Twitter username""@en",2
+<http://www.wikidata.org/entity/P7982>,"""Hrvatska enciklopedija ID""@en",2
+<http://www.wikidata.org/entity/P6568>,"""inscription mentions""@en",2
+<http://www.wikidata.org/entity/P5019>,"""Brockhaus Enzyklopädie online ID""@en",2
+<http://www.wikidata.org/entity/P1191>,"""date of first performance""@en",2
+<http://www.wikidata.org/entity/P648>,"""Open Library ID""@en",2
+<http://www.wikidata.org/entity/P8069>,"""ToposText person ID""@en",2
+<http://www.wikidata.org/entity/P5070>,"""French standard size for oil paintings""@en",2
+<http://www.wikidata.org/entity/P9976>,"""copyright registration""@en",2
+<http://www.wikidata.org/entity/P435>,"""MusicBrainz work ID""@en",2
+<http://www.wikidata.org/entity/P22>,"""father""@en",2
+<http://www.wikidata.org/entity/P10242>,"""Lur Encyclopedic Dictionary ID""@en",2
+<http://www.wikidata.org/entity/P4746>,"""Elhuyar ZTH ID""@en",2
+<http://www.wikidata.org/entity/P4075>,"""Czech Monument Catalogue Number""@en",2
+<http://www.wikidata.org/entity/P4015>,"""Vimeo identifier""@en",2
+<http://www.wikidata.org/entity/P7000>,"""DigitalNZ ID""@en",2
+<http://www.wikidata.org/entity/P1799>,"""Maltese Islands National Inventory of Cultural Property ID""@en",2
+<http://www.wikidata.org/entity/P706>,"""located in/on physical feature""@en",2
+<http://www.wikidata.org/entity/P3836>,"""Pinterest username""@en",2
+<http://www.wikidata.org/entity/P1133>,"""Classified properties and protected areas of Wallonia ID""@en",2
+<http://www.wikidata.org/entity/P1840>,"""investigated by""@en",2
+<http://www.wikidata.org/entity/P3788>,"""BNMM authority ID""@en",2
+<http://www.wikidata.org/entity/P1640>,"""curator""@en",2
+<http://www.wikidata.org/entity/P10297>,"""Google Arts & Culture entity ID""@en",2
+<http://www.wikidata.org/entity/P11414>,"""Museo Egizio in Turin ID""@en",2
+<http://www.wikidata.org/entity/P9883>,"""created for""@en",2
+<http://www.wikidata.org/entity/P1344>,"""participant in""@en",2
+<http://www.wikidata.org/entity/P906>,"""SELIBR ID""@en",2
+<http://www.wikidata.org/entity/P6385>,"""Krugosvet article""@en",2
+<http://www.wikidata.org/entity/P11249>,"""KBR person ID""@en",2
+<http://www.wikidata.org/entity/P8034>,"""Vatican Library VcBA ID""@en",2
+<http://www.wikidata.org/entity/P9304>,"""Encyclopedia of Melbourne ID""@en",2
+<http://www.wikidata.org/entity/P3324>,"""petit-patrimoine.com ID""@en",2
+<http://www.wikidata.org/entity/P1551>,"""Exceptional heritage of Wallonia ID""@en",2
+<http://www.wikidata.org/entity/P53>,"""family""@en",2
+<http://www.wikidata.org/entity/P8349>,"""Proleksis enciklopedija ID""@en",2
+<http://www.wikidata.org/entity/P762>,"""Czech cultural heritage ID""@en",2
+<http://www.wikidata.org/entity/P154>,"""logo image""@en",2
+<http://www.wikidata.org/entity/P8340>,"""estimated value""@en",2
+<http://www.wikidata.org/entity/P6275>,"""copyright representative""@en",2
+<http://www.wikidata.org/entity/P1382>,"""partially coincident with""@en",2
+<http://www.wikidata.org/entity/P760>,"""DPLA ID""@en",2
+<http://www.wikidata.org/entity/P7532>,"""room number""@en",2
+<http://www.wikidata.org/entity/P2635>,"""number of parts of this work""@en",2
+<http://www.wikidata.org/entity/P1242>,"""Theatricalia play ID""@en",2
+<http://www.wikidata.org/entity/P6195>,"""funding scheme""@en",2
+<http://www.wikidata.org/entity/P149>,"""architectural style""@en",2
+<http://www.wikidata.org/entity/P1249>,"""time of earliest written record""@en",2
+<http://www.wikidata.org/entity/P7768>,"""Australian National Maritime Museum object ID""@en",2
+<http://www.wikidata.org/entity/P451>,"""unmarried partner""@en",2
+<http://www.wikidata.org/entity/P2959>,"""permanent duplicated item""@en",2
+<http://www.wikidata.org/entity/P2283>,"""uses""@en",2
+<http://www.wikidata.org/entity/P6366>,"""Microsoft Academic ID""@en",2
+<http://www.wikidata.org/entity/P3038>,"""IWM memorial ID""@en",2
+<http://www.wikidata.org/entity/P2341>,"""indigenous to""@en",2
+<http://www.wikidata.org/entity/P109>,"""signature""@en",2
+<http://www.wikidata.org/entity/P2397>,"""YouTube channel ID""@en",2
+<http://www.wikidata.org/entity/P5905>,"""Comic Vine ID""@en",2
+<http://www.wikidata.org/entity/P9281>,"""Encyclopedia of Greater Philadelphia ID""@en",2
+<http://www.wikidata.org/entity/P1711>,"""British Museum person or institution ID""@en",2
+<http://www.wikidata.org/entity/P2886>,"""Shakeosphere person ID""@en",2
+<http://www.wikidata.org/entity/P747>,"""has edition or translation""@en",2
+<http://www.wikidata.org/entity/P3373>,"""sibling""@en",2
+<http://www.wikidata.org/entity/P281>,"""postal code""@en",2
+<http://www.wikidata.org/entity/P10611>,"""has certification""@en",1
+<http://www.wikidata.org/entity/P11408>,"""Pixiv Encyclopedia ID""@en",1
+<http://www.wikidata.org/entity/P9994>,"""record number""@en",1
+<http://www.wikidata.org/entity/P10757>,"""Personality Database profile ID""@en",1
+<http://www.wikidata.org/entity/P7843>,"""German Vikidia ID""@en",1
+<http://www.wikidata.org/entity/P1053>,"""ResearcherID""@en",1
+<http://www.wikidata.org/entity/P7832>,"""Basque Vikidia ID""@en",1
+<http://www.wikidata.org/entity/P9037>,"""BHCL UUID""@en",1
+<http://www.wikidata.org/entity/P9000>,"""World History Encyclopedia ID""@en",1
+<http://www.wikidata.org/entity/P7797>,"""BeWeb entity ID""@en",1
+<http://www.wikidata.org/entity/P8988>,"""Mapy.cz ID""@en",1
+<http://www.wikidata.org/entity/P8849>,"""CONOR.BG ID""@en",1
+<http://www.wikidata.org/entity/P8885>,"""Namuwiki ID""@en",1
+<http://www.wikidata.org/entity/P10883>,"""The Encyclopedia of Fantasy ID""@en",1
+<http://www.wikidata.org/entity/P1042>,"""ZDB ID""@en",1
+<http://www.wikidata.org/entity/P1017>,"""Vatican Library ID (former scheme)""@en",1
+<http://www.wikidata.org/entity/P8892>,"""edition humboldt digital Flora ID""@en",1
+<http://www.wikidata.org/entity/P9477>,"""Trap Danmark ID""@en",1
+<http://www.wikidata.org/entity/P1014>,"""Art & Architecture Thesaurus ID""@en",1
+<http://www.wikidata.org/entity/P841>,"""feast day""@en",1
+<http://www.wikidata.org/entity/P10123>,"""Catalog of arthistoricum.net ID""@en",1
+<http://www.wikidata.org/entity/P8091>,"""Archival Resource Key""@en",1
+<http://www.wikidata.org/entity/P8406>,"""Grove Art Online ID""@en",1
+<http://www.wikidata.org/entity/P9223>,"""Provenio UUID""@en",1
+<http://www.wikidata.org/entity/P84>,"""architect""@en",1
+<http://www.wikidata.org/entity/P8135>,"""Encyclopedia of České Budějovice ID""@en",1
+<http://www.wikidata.org/entity/P9493>,"""artist files at""@en",1
+<http://www.wikidata.org/entity/P8464>,"""content partnership category""@en",1
+<http://www.wikidata.org/entity/P9292>,"""Encyclopédie du patrimoine culturel de l'Amérique française ID (French)""@en",1
+<http://www.wikidata.org/entity/P9475>,"""Encyclopedia of Korean Culture ID""@en",1
+<http://www.wikidata.org/entity/P8325>,"""Indonesian Intangible Cultural Heritage Registration Number""@en",1
+<http://www.wikidata.org/entity/P8172>,"""Sejm-Wielki.pl profile ID""@en",1
+<http://www.wikidata.org/entity/P8309>,"""Yle topic ID""@en",1
+<http://www.wikidata.org/entity/P828>,"""has cause""@en",1
+<http://www.wikidata.org/entity/P8272>,"""BaGLAMa GID""@en",1
+<http://www.wikidata.org/entity/P8264>,"""attribution text""@en",1
+<http://www.wikidata.org/entity/P10227>,"""National Library of Ireland ID""@en",1
+<http://www.wikidata.org/entity/P9080>,"""JAANUS ID""@en",1
+<http://www.wikidata.org/entity/P9081>,"""SEARCH on line catalogue ID""@en",1
+<http://www.wikidata.org/entity/P8750>,"""Unione Romana Biblioteche Scientifiche ID""@en",1
+<http://www.wikidata.org/entity/P8713>,"""Stadtwiki Dresden article""@en",1
+<http://www.wikidata.org/entity/P11258>,"""MAK Collection Online object ID""@en",1
+<http://www.wikidata.org/entity/P11036>,"""Instagram post ID""@en",1
+<http://www.wikidata.org/entity/P1104>,"""number of pages""@en",1
+<http://www.wikidata.org/entity/P86>,"""composer""@en",1
+<http://www.wikidata.org/entity/P9123>,"""Catalan Vikidia ID""@en",1
+<http://www.wikidata.org/entity/P7856>,"""Salzburg Museums ID""@en",1
+<http://www.wikidata.org/entity/P11239>,"""DFK Paris person ID""@en",1
+<http://www.wikidata.org/entity/P1006>,"""Nationale Thesaurus voor Auteurs ID""@en",1
+<http://www.wikidata.org/entity/P8050>,"""Women of Scotland subject ID""@en",1
+<http://www.wikidata.org/entity/P9665>,"""EGID""@en",1
+<http://www.wikidata.org/entity/P915>,"""filming location""@en",1
+<http://www.wikidata.org/entity/P8532>,"""Trismegistos text ID""@en",1
+<http://www.wikidata.org/entity/P957>,"""ISBN-10""@en",1
+<http://www.wikidata.org/entity/P8511>,"""Fototeka person ID""@en",1
+<http://www.wikidata.org/entity/P3782>,"""Artnet artist ID""@en",1
+<http://www.wikidata.org/entity/P411>,"""canonization status""@en",1
+<http://www.wikidata.org/entity/P40>,"""child""@en",1
+<http://www.wikidata.org/entity/P3987>,"""SHARE Catalogue author ID""@en",1
+<http://www.wikidata.org/entity/P39>,"""position held""@en",1
+<http://www.wikidata.org/entity/P3829>,"""Publons author ID""@en",1
+<http://www.wikidata.org/entity/P3827>,"""JSTOR topic ID""@en",1
+<http://www.wikidata.org/entity/P381>,"""PCP reference number""@en",1
+<http://www.wikidata.org/entity/P3805>,"""Tax-exempt heritage asset ID""@en",1
+<http://www.wikidata.org/entity/P3794>,"""Dictionary of Sydney ID""@en",1
+<http://www.wikidata.org/entity/P1442>,"""image of grave""@en",1
+<http://www.wikidata.org/entity/P1455>,"""list of works""@en",1
+<http://www.wikidata.org/entity/P1472>,"""Commons Creator page""@en",1
+<http://www.wikidata.org/entity/P1481>,"""vici.org ID""@en",1
+<http://www.wikidata.org/entity/P3495>,"""FilmPolski.pl ID""@en",1
+<http://www.wikidata.org/entity/P3477>,"""Nihon Tarento Meikan ID""@en",1
+<http://www.wikidata.org/entity/P1483>,"""kulturnoe-nasledie.ru ID""@en",1
+<http://www.wikidata.org/entity/P345>,"""IMDb ID""@en",1
+<http://www.wikidata.org/entity/P3425>,"""Natura 2000 site ID""@en",1
+<http://www.wikidata.org/entity/P4439>,"""MNCARS artist ID""@en",1
+<http://www.wikidata.org/entity/P4647>,"""location of first performance""@en",1
+<http://www.wikidata.org/entity/P1422>,"""Sandrart.net person ID""@en",1
+<http://www.wikidata.org/entity/P1424>,"""topic's main template""@en",1
+<http://www.wikidata.org/entity/P4619>,"""National Library of Brazil ID""@en",1
+<http://www.wikidata.org/entity/P4581>,"""Städel Museum artist ID""@en",1
+<http://www.wikidata.org/entity/P4553>,"""RA Collections ID""@en",1
+<http://www.wikidata.org/entity/P4527>,"""UK Parliament thesaurus ID""@en",1
+<http://www.wikidata.org/entity/P1436>,"""collection or exhibition size""@en",1
+<http://www.wikidata.org/entity/P4440>,"""Biblioteca Nacional de México ID""@en",1
+<http://www.wikidata.org/entity/P3295>,"""code""@en",1
+<http://www.wikidata.org/entity/P4432>,"""AKL Online artist ID""@en",1
+<http://www.wikidata.org/entity/P4330>,"""contains""@en",1
+<http://www.wikidata.org/entity/P4258>,"""Gallica ID""@en",1
+<http://www.wikidata.org/entity/P4212>,"""PACTOLS thesaurus ID""@en",1
+<http://www.wikidata.org/entity/P421>,"""located in time zone""@en",1
+<http://www.wikidata.org/entity/P4185>,"""iconographic symbol""@en",1
+<http://www.wikidata.org/entity/P4178>,"""Beazley Archive Pottery Database ID""@en",1
+<http://www.wikidata.org/entity/P4171>,"""World Heritage Tentative List ID""@en",1
+<http://www.wikidata.org/entity/P2001>,"""Revised Romanization""@en",1
+<http://www.wikidata.org/entity/P2272>,"""Hederich encyclopedia article IDTheoi""@en",1
+<http://www.wikidata.org/entity/P2120>,"""radius""@en",1
+<http://www.wikidata.org/entity/P1566>,"""GeoNames ID""@en",1
+<http://www.wikidata.org/entity/P1617>,"""BBC Things ID""@en",1
+<http://www.wikidata.org/entity/P2042>,"""Artsy artist ID""@en",1
+<http://www.wikidata.org/entity/P2038>,"""ResearchGate profile ID""@en",1
+<http://www.wikidata.org/entity/P2031>,"""work period (start)""@en",1
+<http://www.wikidata.org/entity/P2019>,"""AllMovie person ID""@en",1
+<http://www.wikidata.org/entity/P2013>,"""Facebook ID""@en",1
+<http://www.wikidata.org/entity/P2424>,"""Berlin cultural heritage ID""@en",1
+<http://www.wikidata.org/entity/P1994>,"""AllMusic composition ID""@en",1
+<http://www.wikidata.org/entity/P1988>,"""Le Delarge artist ID""@en",1
+<http://www.wikidata.org/entity/P1642>,"""acquisition transaction""@en",1
+<http://www.wikidata.org/entity/P1816>,"""National Portrait Gallery (London) person ID""@en",1
+<http://www.wikidata.org/entity/P178>,"""developer""@en",1
+<http://www.wikidata.org/entity/P1770>,"""Romania LMI code""@en",1
+<http://www.wikidata.org/entity/P176>,"""manufacturer""@en",1
+<http://www.wikidata.org/entity/P1741>,"""GTAA ID""@en",1
+<http://www.wikidata.org/entity/P2936>,"""language used""@en",1
+<http://www.wikidata.org/entity/P3259>,"""intangible cultural heritage status""@en",1
+<http://www.wikidata.org/entity/P3241>,"""Catholic Encyclopedia ID""@en",1
+<http://www.wikidata.org/entity/P3144>,"""elFilm person ID""@en",1
+<http://www.wikidata.org/entity/P3113>,"""does not have part""@en",1
+<http://www.wikidata.org/entity/P1535>,"""used by""@en",1
+<http://www.wikidata.org/entity/P3093>,"""recovered by""@en",1
+<http://www.wikidata.org/entity/P3082>,"""destroyed""@en",1
+<http://www.wikidata.org/entity/P3065>,"""RERO ID (obsolete)""@en",1
+<http://www.wikidata.org/entity/P466>,"""occupant""@en",1
+<http://www.wikidata.org/entity/P2925>,"""domain of saint or deity""@en",1
+<http://www.wikidata.org/entity/P1537>,"""contributing factor of""@en",1
+<http://www.wikidata.org/entity/P2650>,"""interested in""@en",1
+<http://www.wikidata.org/entity/P2647>,"""source of material""@en",1
+<http://www.wikidata.org/entity/P1545>,"""series ordinal""@en",1
+<http://www.wikidata.org/entity/P2604>,"""Kinopoisk person ID""@en",1
+<http://www.wikidata.org/entity/P1552>,"""has quality""@en",1
+<http://www.wikidata.org/entity/P248>,"""stated in""@en",1
+<http://www.wikidata.org/entity/P6194>,"""Austrian Biographical Encylopedia ID""@en",1
+<http://www.wikidata.org/entity/P6736>,"""Drobné památky ID""@en",1
+<http://www.wikidata.org/entity/P6723>,"""BlackPast.org ID""@en",1
+<http://www.wikidata.org/entity/P6698>,"""Japan Search name ID""@en",1
+<http://www.wikidata.org/entity/P6634>,"""LinkedIn personal profile ID""@en",1
+<http://www.wikidata.org/entity/P6585>,"""Directorio Legislativo ID""@en",1
+<http://www.wikidata.org/entity/P1196>,"""manner of death""@en",1
+<http://www.wikidata.org/entity/P1207>,"""NUKAT ID""@en",1
+<http://www.wikidata.org/entity/P6373>,"""Portuguese National Library work ID""@en",1
+<http://www.wikidata.org/entity/P6327>,"""Goodreads character ID""@en",1
+<http://www.wikidata.org/entity/P6770>,"""Swiss National Sound Archives ID""@en",1
+<http://www.wikidata.org/entity/P6081>,"""RIA Novosti reference""@en",1
+<http://www.wikidata.org/entity/P6016>,"""Tennessee Encyclopedia ID""@en",1
+<http://www.wikidata.org/entity/P5984>,"""APNI ID""@en",1
+<http://www.wikidata.org/entity/P5981>,"""Encyclopedia Virginia ID""@en",1
+<http://www.wikidata.org/entity/P5873>,"""place of devotion""@en",1
+<http://www.wikidata.org/entity/P5869>,"""model item""@en",1
+<http://www.wikidata.org/entity/P5761>,"""SAC ID""@en",1
+<http://www.wikidata.org/entity/P5715>,"""Academia.edu profile URL""@en",1
+<http://www.wikidata.org/entity/P7228>,"""access restriction status""@en",1
+<http://www.wikidata.org/entity/P7690>,"""South Carolina Encyclopedia ID""@en",1
+<http://www.wikidata.org/entity/P7666>,"""Visuotinė lietuvių enciklopedija ID""@en",1
+<http://www.wikidata.org/entity/P7591>,"""VideoGameGeek game ID""@en",1
+<http://www.wikidata.org/entity/P757>,"""World Heritage Site ID""@en",1
+<http://www.wikidata.org/entity/P7482>,"""source of file""@en",1
+<http://www.wikidata.org/entity/P746>,"""date of disappearance""@en",1
+<http://www.wikidata.org/entity/P1142>,"""political ideology""@en",1
+<http://www.wikidata.org/entity/P723>,"""Digitale Bibliotheek voor de Nederlandse Letteren author ID""@en",1
+<http://www.wikidata.org/entity/P1266>,"""AlloCiné person ID""@en",1
+<http://www.wikidata.org/entity/P7194>,"""AZLyrics.com artist ID""@en",1
+<http://www.wikidata.org/entity/P7153>,"""significant place""@en",1
+<http://www.wikidata.org/entity/P708>,"""diocese""@en",1
+<http://www.wikidata.org/entity/P6949>,"""announcement date""@en",1
+<http://www.wikidata.org/entity/P6900>,"""NicoNicoPedia ID""@en",1
+<http://www.wikidata.org/entity/P6844>,"""abART person ID""@en",1
+<http://www.wikidata.org/entity/P1153>,"""Scopus author ID""@en",1
+<http://www.wikidata.org/entity/P6800>,"""sequenced genome URL""@en",1
+<http://www.wikidata.org/entity/P4819>,"""Swedish Portrait Archive ID""@en",1
+<http://www.wikidata.org/entity/P4989>,"""RKDlibrary ID""@en",1
+<http://www.wikidata.org/entity/P4985>,"""TMDB person ID""@en",1
+<http://www.wikidata.org/entity/P4970>,"""alternative name""@en",1
+<http://www.wikidata.org/entity/P496>,"""ORCID iD""@en",1
+<http://www.wikidata.org/entity/P1327>,"""partner in business or sport""@en",1
+<http://www.wikidata.org/entity/P4945>,"""download link""@en",1
+<http://www.wikidata.org/entity/P4927>,"""Invaluable.com person ID""@en",1
+<http://www.wikidata.org/entity/P4903>,"""New Georgia Encyclopedia ID""@en",1
+<http://www.wikidata.org/entity/P4854>,"""Uppslagsverket Finland ID""@en",1
+<http://www.wikidata.org/entity/P5002>,"""Orthodox Encyclopedia ID""@en",1
+<http://www.wikidata.org/entity/P4813>,"""PARES ID""@en",1
+<http://www.wikidata.org/entity/P1347>,"""military casualty classification""@en",1
+<http://www.wikidata.org/entity/P1365>,"""replaces""@en",1
+<http://www.wikidata.org/entity/P1366>,"""replaced by""@en",1
+<http://www.wikidata.org/entity/P137>,"""operator""@en",1
+<http://www.wikidata.org/entity/P4702>,"""Google Arts & Culture partner ID""@en",1
+<http://www.wikidata.org/entity/P1416>,"""affiliation""@en",1
+<http://www.wikidata.org/entity/P4666>,"""CineMagia person ID""@en",1
+<http://www.wikidata.org/entity/P1319>,"""earliest date""@en",1
+<http://www.wikidata.org/entity/P5652>,"""Carthalia ID""@en",1
+<http://www.wikidata.org/entity/P5607>,"""located in the ecclesiastical territorial entity""@en",1
+<http://www.wikidata.org/entity/P5549>,"""INEPAC ID""@en",1
+<http://www.wikidata.org/entity/P5525>,"""CONDEPHAAT ID""@en",1
+<http://www.wikidata.org/entity/P5422>,"""has pattern""@en",1
+<http://www.wikidata.org/entity/P5412>,"""romanization of Belarusian (2007 system)""@en",1
+<http://www.wikidata.org/entity/P1280>,"""CONOR.SI ID""@en",1
+<http://www.wikidata.org/entity/P5247>,"""Giant Bomb ID""@en",1
+<http://www.wikidata.org/entity/P7699>,"""National Library of Lithuania ID""@en",1
+<http://www.wikidata.org/entity/P5202>,"""adapted by""@en",1
+<http://www.wikidata.org/entity/P5160>,"""Thesaurus for Graphic Materials ID""@en",1
+<http://www.wikidata.org/entity/P5137>,"""item for this sense""@en",1
+<http://www.wikidata.org/entity/P508>,"""BNCF Thesaurus ID""@en",1
+<http://www.wikidata.org/entity/P5072>,"""presented in""@en",1
+<http://www.wikidata.org/entity/P5034>,"""National Library of Korea ID""@en",1
+<http://www.wikidata.org/entity/P5033>,"""Filmweb.pl person ID""@en",1
+<http://www.wikidata.org/entity/P5017>,"""last update""@en",1

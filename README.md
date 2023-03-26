@@ -2,7 +2,7 @@
 
 This is my personal collection of working SPARQL queries that can serve as patterns for solutions for typical problems encounterd when writing SPARQL queries.
 
-## How to get labels for results of grouped results
+## How to get labels for items in grouped results
 
 Problem:
 

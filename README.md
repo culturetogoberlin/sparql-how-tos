@@ -16,7 +16,7 @@ Place the grouping in a subquery:
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-# Pattern: Labelling bei Aggregationen über Subqueries
+# Pattern: Labelling of aggregated items
 # Example: List all German collections that are indicated in works of art
 # and count the works for each collection; result in descending order.
 SELECT ?collectionLabel ?itemCount WHERE { 

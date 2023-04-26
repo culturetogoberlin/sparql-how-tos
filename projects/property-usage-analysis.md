@@ -14,6 +14,26 @@ nächste Tasks:
 
 - VALUES für die Festlegung der Item-Typen (und Logik der Item-Typen)
 
+Erster Anlauf: 
+
+```SPARQL
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+# Subcategories used for paintings
+SELECT DISTINCT ?subCat ?subCatLabel_en ?subCatLabel_de 
+WHERE {
+ ?item wdt:P31/wdt:P279* wd:Q3305213 .
+ ?item wdt:P31 ?subCat .
+ OPTIONAL { ?subCat rdfs:label ?subCatLabel_en FILTER (LANG(?subCatLabel_en ) = "en") . }
+ OPTIONAL { ?subCat rdfs:label ?subCatLabel_de FILTER (LANG(?subCatLabel_de ) = "de") . }
+}
+```
+[Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/rHTtMB)
+
+weiter: zählen, wie viele Items pro subCat existieren, also wie häufig die subCats verwendet werden.
+
+
 Stand: 
 
 ```SPARQL

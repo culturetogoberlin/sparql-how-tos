@@ -48,7 +48,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX wikibase: <http://wikiba.se/ontology#>
-# Count how often properties are use with items of tye painting
+# Count how often properties are used with items of tye painting
 SELECT ?prop ?propLabel ?oCount 
   WHERE {
   {
@@ -71,4 +71,4 @@ ORDER BY DESC(?oCount)
 ```
 [Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/8h9vxg)
 
-NOTE: This is a very costly query that can an will often cause time-outs. Samples of results are availabele in [/query-results/property-usage](/query-results/property-usage).
+NOTE: This is a very costly query that can and will often cause time-outs. Samples of results are availabele in [/query-results/property-usage](/query-results/property-usage).

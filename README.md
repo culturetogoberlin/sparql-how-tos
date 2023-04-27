@@ -107,7 +107,7 @@ NOTE: This is a very costly query that can and will often cause time-outs. Sampl
 
 ## Queue - Problems that wait for a solution
 
-## Items with Wikipedia articles in certain languages, missing an article in a specific language
+### Items with Wikipedia articles in certain languages, missing an article in a specific language
 
 Problem:
 

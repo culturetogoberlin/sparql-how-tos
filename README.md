@@ -2,13 +2,43 @@
 
 This is my personal collection of working SPARQL queries that can serve as patterns for solutions for typical problems encounterd when writing SPARQL queries.
 
+## How to get info about items with knwon IDs
+
+Problem:
+
+We have a list of items with known IDs (Q Numbers) and want to get some information about them.
+
+Solution (using Wikidata Query Service):
+
+```SPARQL
+# Getting information about some Wikidata items with known IDs
+SELECT ?item ?itemLabel ?property ?value ?valueLabel
+WHERE {
+  VALUES ?item {
+    wd:Q4176      # Cologne Kathedral
+    wd:Q250212    # Freiburg Kathedral
+  }
+  VALUES ?property {
+    wdt:P17       # Country (situated in)
+    wdt:P825      # Dedicated to
+  }
+  OPTIONAL { ?item ?property ?value . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+[Try on WDQS](https://w.wiki/6dgb)
+
+ToDos:
+
+Labelling of properties.
+
 ## How to get labels for items in grouped results
 
 Problem:
 
 When a query uses GROUP BY the variables can not be used directly to get their labels.
 
-Solution:
+Solution (using QLever):
 
 Place the grouping in a subquery:
 
@@ -41,7 +71,7 @@ Problem:
 
 The use of properties in the statements documenting items is very heterogeneous. To get an idea of which properties are used to characterize certain items, we need statistical data about the usage of properties. The following query lists all properties occurring in statements about paintings and their usage in descending order.
 
-Solution:
+Solution (using QLever):
 
 ```SPARQL
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>

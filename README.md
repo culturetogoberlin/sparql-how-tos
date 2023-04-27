@@ -2,7 +2,9 @@
 
 This is my personal collection of working SPARQL queries that can serve as patterns for solutions for typical problems encounterd when writing SPARQL queries.
 
-## How to get info about items with knwon IDs
+## Problems and Solutions
+
+### How to get info about items with knwon IDs
 
 Problem:
 
@@ -32,7 +34,7 @@ ToDos:
 
 Labelling of properties.
 
-## How to get labels for items in grouped results
+### How to get labels for items in grouped results
 
 Problem:
 
@@ -65,7 +67,7 @@ ORDER BY DESC(?itemCount)
 ```
 [Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/qXYlja)
 
-## How to statistically analyze the properties used in a certain type of item
+### How to statistically analyze the properties used in a certain type of item
 
 Problem:
 
@@ -102,3 +104,15 @@ ORDER BY DESC(?oCount)
 [Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/8h9vxg)
 
 NOTE: This is a very costly query that can and will often cause time-outs. Samples of results are availabele in [/query-results/property-usage](/query-results/property-usage).
+
+## Queue - Problems that wait for a solution
+
+## Items with Wikipedia articles in certain languages, missing an article in a specific language
+
+Problem:
+
+We want to get a list of items (of a certain kind) that have a Wikipedia article in certain languages, but not in specific language.
+
+Use case:
+
+Creating a checklist of items that need a Wikipedia article in my language. The fact that they are covered in - say - English, French, Italian and Spanish Wikipedia can be take as an indication that they are notable enough to have an article in my language.

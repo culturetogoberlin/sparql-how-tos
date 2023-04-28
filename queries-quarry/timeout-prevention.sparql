@@ -1,0 +1,4 @@
+# lists Instance-of-classes that are identical to the to a subclass attributed to an item
+SELECT DISTINCT ?X 
+{ [] wdt:P279 ?X ; wdt:P31 ?X . }
+

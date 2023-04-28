@@ -103,7 +103,7 @@ ORDER BY DESC(?oCount)
 ```
 [Try it on QLever](https://qlever.cs.uni-freiburg.de/wikidata/8h9vxg)
 
-NOTE: This is a very costly query that can and will often cause time-outs. Samples of results are availabele in [/query-results/property-usage](/query-results/property-usage).
+NOTE: This is a very costly query that can and will often cause timeouts. Samples of results are availabele in [/query-results/property-usage](/query-results/property-usage).
 
 ## Queue - Problems that wait for a solution
 

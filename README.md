@@ -34,6 +34,75 @@ ToDos:
 
 Labelling of properties.
 
+### How to query for items that meet condition A but not condition B
+
+Problem:
+
+We want to narrow down the results of a query by excluding items that meet a certain condition.
+
+Solution (using Wikidata Query Service):
+
+The following query from the [sample query manual](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#All_Wikipedia_sites) returns all 331 (as of 5/15/2023) language versions of Wikipedia.
+
+```SPARQL
+# Get all Wikipedia sites
+SELECT ?item ?itemLabel ?website
+WHERE 
+{
+  ?item wdt:P856 ?website.
+  # ?item wdt:P31 wd:Q10876391 .
+  # FILTER NOT EXISTS { ?item wdt:P31 wd:Q10876391 . }
+  # MINUS { ?item wdt:P31 wd:Q10876391 . }
+  ?website wikibase:wikiGroup "wikipedia".
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+[Try it on WDQS](https://w.wiki/6huK)
+
+If we add the condition that the site has to be a Wikipedia language version (Q10876391), we get only 329 (as of 5/15/2023) results.
+
+```SPARQL
+# All Wikipedia sites
+# Get all Wikipedia sites
+SELECT ?item ?itemLabel ?website
+WHERE 
+{
+  ?item wdt:P856 ?website.
+  ?item wdt:P31 wd:Q10876391 .
+  # FILTER NOT EXISTS { ?item wdt:P31 wd:Q10876391 . }
+  # MINUS { ?item wdt:P31 wd:Q10876391 . }
+  ?website wikibase:wikiGroup "wikipedia".
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+[Try it on WDQS](https://w.wiki/6huP)
+
+How can this be? What is different about the two results that are not Wikipedia language versions? The following query returns results that do not meet this additional criterion:
+
+```SPARQL
+# All Wikipedia sites
+# Get all Wikipedia sites
+SELECT ?item ?itemLabel ?website
+WHERE 
+{
+  ?item wdt:P856 ?website.
+  #?item wdt:P31 wd:Q10876391 .
+  FILTER NOT EXISTS { ?item wdt:P31 wd:Q10876391 . }
+  # MINUS { ?item wdt:P31 wd:Q10876391 . }
+  ?website wikibase:wikiGroup "wikipedia".
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+[Try it on WDQS](https://w.wiki/6huS)
+
+<small>The Norwegian Wikipedias is a special case because it is an "umbrella term for the two separate Norwegian-language editions of Wikipedia (Nynorsk - nn - and Bokmål/Riksmål - nb) which shared a single wiki until the creation of - nn - and redefinition of - no - as Bokmål/Riksmål only – prefix 'nb' redirects to 'no'" - description of Q191769.</small>
+
+Both, FILTER NOT EXISTS and MINUS do the job, here with identical results. On the differences see [SPARQL Recommendation, Query Language #Negation](https://www.w3.org/TR/sparql11-query/#negation).
+
+ToDos:
+
+Explain the difference between FILTER NOT EXISTS and MINUS.
+
 ### How to get labels for items in grouped results
 
 Problem:

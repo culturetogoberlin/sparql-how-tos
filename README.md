@@ -34,6 +34,39 @@ ToDos:
 
 Labelling of properties.
 
+### How to query for items that miss a statement with a certain property
+
+Problem:
+
+In order to know if a certain property is used normally/sparsely/never ... for a certain type of items we want to query for items that miss a statement with a certain property.
+
+```SPARQL
+# Paintings in Danish, Swedish, or Swiss collections that have no statement about the materials used
+SELECT ?item ?itemLabel
+WHERE 
+{
+  VALUES ?country {
+    wd:Q35
+    wd:Q34
+    wd:Q39
+  }
+  ?item wdt:P31 wd:Q3305213 .
+  ?item wdt:P276/wdt:P17 ?country .
+  FILTER ( NOT EXISTS { ?item  wdt:P186 [] } )
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+[Try it on WDQS](https://w.wiki/6njz)
+
+Note: The limitation to paintings in Danish, Swedish, or Swiss collections is only done to avoid timeout.
+
+If we query without the filter for the missing statement ([Try it on WDQS](https://w.wiki/6nkA)) we get all items and can estimate the likelihood an item is qualified by such a statement (in this case, as of June 2023: ca. 39%).
+
+ToDos:
+
+Use COUNT() to get the number of items with and without the statement.
+
 ### How to query for items that meet condition A but not condition B
 
 Problem:

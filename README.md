@@ -209,6 +209,12 @@ NOTE: This is a very costly query that can and will often cause timeouts. Sample
 
 ## Queue - Problems that wait for a solution
 
+### classes that are direct or indirect subclasses of a certain class
+
+Problem:
+
+List all classes that are direct or indirect subclasses of a certain class.
+
 ### Items with Wikipedia articles in certain languages, missing an article in a specific language
 
 Problem:

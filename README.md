@@ -4,7 +4,7 @@ This is my personal collection of working SPARQL queries that can serve as patte
 
 ## Problems and Solutions
 
-### How to get info about items with knwon IDs
+### How to get info about items with known IDs
 
 Problem:
 

@@ -17,8 +17,8 @@ Solution (using Wikidata Query Service):
 SELECT ?item ?itemLabel ?property ?value ?valueLabel
 WHERE {
   VALUES ?item {
-    wd:Q4176      # Cologne Kathedral
-    wd:Q250212    # Freiburg Kathedral
+    wd:Q4176      # Cologne Cathedral
+    wd:Q250212    # Freiburg Cathedral
   }
   VALUES ?property {
     wdt:P17       # Country (situated in)

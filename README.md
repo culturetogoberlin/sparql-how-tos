@@ -4,11 +4,11 @@ This is my personal collection of working SPARQL queries that can serve as patte
 
 ## Problems and Solutions
 
-### How to get info about items with knwon IDs
+### How to get specific info about items with knwon IDs
 
 Problem:
 
-We have a list of items with known IDs (Q Numbers) and want to get some information about them.
+We have a list of items with known IDs (Q Numbers) and want to get some (a given list of properties) information about them.
 
 Solution (using Wikidata Query Service):
 

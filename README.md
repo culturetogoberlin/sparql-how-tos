@@ -207,7 +207,7 @@ ORDER BY DESC(?oCount)
 
 NOTE: This is a very costly query that can and will often cause timeouts. Samples of results are availabele in [/query-results/property-usage](/query-results/property-usage).
 
-See also the following (data sheet)[https://docs.google.com/spreadsheets/d/16QL9QrGaRkCbgjiCFIdoEDDvBfoP1XuKk1wxSUnuJ_Y/edit?usp=sharing].
+See also the following [data sheet](https://docs.google.com/spreadsheets/d/16QL9QrGaRkCbgjiCFIdoEDDvBfoP1XuKk1wxSUnuJ_Y/edit?usp=sharing).
 
 ## Queue - Problems that wait for a solution
 
